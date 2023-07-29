@@ -1,8 +1,9 @@
-# API-com-Express
-Tarefa da aula 11 do curso de Back-End da AWARI
+# API-com-Dados-Relacionais
 
-Com base no que foi visto em aula e, se necessário, na documentação Express,  o desafio consiste em:
+Tarefa da aula 13 do curso de Back-End da AWARI
 
-º Criar uma API utilizando Express.
-º Criar rotas utilizando os principais métodos HTTP.
-º Adentrar também nos códigos de retorno.
+Com base no que foi visto em aula:
+
+º Faça a aplicação da 11ª aula se conectar com o banco de dados relacional.
+º Realizar operações no banco de dados.
+º Fazer pelo menos uma operação DDL e uma operação DML.
